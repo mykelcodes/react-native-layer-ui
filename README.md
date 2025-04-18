@@ -1,6 +1,6 @@
 # react-native-layer-ui
 
-React Native Layer is a collection of customizable
+React Native Layer is a collection of customizable and production ready UI components for building beautiful React Native applications.
 
 ## Installation
 
@@ -10,7 +10,6 @@ npm install react-native-layer-ui
 
 ## Usage
 
-
 ```js
 import { multiply } from 'react-native-layer-ui';
 
@@ -18,7 +17,6 @@ import { multiply } from 'react-native-layer-ui';
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
